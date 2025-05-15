@@ -23,7 +23,7 @@
 
 ## Instructions
 
-1. `git clone https://github.com/Naveen-M-77/movie-recommende.git` 
+1. `git clone https://github.com/Ayuu10/movie_recommender_fullstack.git` 
 2. `cd ./app` (for going to the root folder)
 3. Install node dependencies 
    - `yarn install` OR `npm install` (If not present yarn module).
@@ -41,7 +41,7 @@
 3. If yarn module not present in code then you can download By Using `yarn` OR `yarn install`.
 4. Then check `TMDB API` Key present or not in `app/src/api/apiConfig.js`. If present then go with 5th step.
 5. Open terminal and run the commant `yarn start` OR `npm start`. Now you can see the output in `http://localhost:3000/` on your default browser.
-6. While going to live demo link `https://netflix-clone-ac744.web.app/` of our website. Sometime if you refresh the page you see firebase documentation error. please `past` the above link again then you see website live demo. 
+6. While going to live demo link `https://movie-recommender-7cyh.onrender.com` of our website. Sometime if you refresh the page you see firebase documentation error. please `past` the above link again then you see website live demo. 
 7. While testing the `recommendations movies` scroll down of that movies you can see `similar` movies of that type. 
 8. The website is host on `Firebase`.
 
